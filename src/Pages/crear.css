@@ -1,0 +1,24 @@
+#create_quiz {
+    color: black;
+    font-size: 24px;
+    width: 60%;
+    height: auto;
+    flex-wrap: nowrap;
+    box-sizing: content-box;
+    margin: 16px;
+    margin-left: 20%;
+    background-color: rgb(196, 62, 62);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 4px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+#question {
+    
+}
+
+body {
+    background-color: #25076b;
+}

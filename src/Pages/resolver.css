@@ -1,0 +1,22 @@
+#on_quiz {
+    color: black;
+    font-size: 24px;
+    width: 60%;
+    height: auto;
+    flex-wrap: nowrap;
+    box-sizing: content-box;
+    margin: 16px;
+    margin-left: 20%;
+    background-color: rgb(174, 62, 196);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 4px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+#fondito {
+    padding-top: 5px;
+    padding-bottom: 2px;
+    background-color: rgb(214, 217, 219);
+}
